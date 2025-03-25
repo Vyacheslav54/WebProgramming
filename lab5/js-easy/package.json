@@ -1,0 +1,26 @@
+{
+  "name": "js-easy",
+  "version": "1.0.0",
+  "description": "## Завдання",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/roman-lipatov/js-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roman-lipatov/js-easy/issues"
+  },
+  "homepage": "https://github.com/roman-lipatov/js-easy#readme"
+}
